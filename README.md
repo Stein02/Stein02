@@ -6,7 +6,7 @@ PickAir Tech is an innovative technology company dedicated to creating smart, re
 
 **Founded:** 2024
 **Location:** Lilongwe, Malawi
-**Industry:** Technology | Logistics | Mobility Solutions | Mobile apps
+**Industry:** Technology | Mobile apps | Web apps & Desktop apps
 **Core Values:** Innovation, Reliability, Sustainability, Customer-Centricity
 
 ---
